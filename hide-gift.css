@@ -7,8 +7,6 @@
 */
 
 
-:root {
-  [aria-label="Send a gift or Boost this server"] {
-    display: none;
-  }
+.buttons-uaqb-5 > .button-f2h6uQ:first-of-type {
+  display: none;
 }
